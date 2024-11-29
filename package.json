@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "masonry-layout": "^4.2.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.2"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}

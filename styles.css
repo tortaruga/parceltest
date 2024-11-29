@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.item {
+    border-radius: 1rem;
+    margin-bottom: 10px;
+    width: 200px;
+}
